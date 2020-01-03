@@ -16,9 +16,21 @@ languages={
     'Hindi' : 'hi',
     'Arabic' : 'ar',
     'Greek' : 'el',
-    'KOrean' : 'ko',
+    'Korean' : 'ko',
     'Urdu' : 'ur',
-    'Gujarati' : 'gu'
+    'Gujarati' : 'gu',
+    'French':'fr',
+    'Bulgarian' : 'bg',
+    'Chinese' : 'zh-CN',
+    'Irish' : 'ga',
+    'German' : 'de',
+    'Indonesian' : 'id',
+    'Lao' : 'lo',
+    'Marathi' : 'mr',
+    'Persian' : 'fa',
+    'Sindhi': 'sd',
+    'Spanish' : 'es',
+    'Zulu':'zu'
 
 }
 output_lang=languages[dest]
