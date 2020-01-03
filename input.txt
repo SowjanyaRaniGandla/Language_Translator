@@ -1,0 +1,3 @@
+Language Translator Project.
+This project takes help of default packages as well as google API's
+Developed by JNTUH CEJ students...
